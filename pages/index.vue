@@ -63,7 +63,7 @@
                       class="middle even sf-item-2 sf-depth-1 sf-no-children"
                     >
                       <a
-                        href="https://gradsingapore.com/graduate-employers"
+                        href="/graduate-employers"
                         class="sf-depth-1"
                         >Browse Employers</a
                       >
@@ -668,7 +668,7 @@
                                           class="ds-1col entity entity-field-collection-item field-collection-item-field-fc-featured-block view-mode-full clearfix"
                                         >
                                           <a
-                                            href="https://gradsingapore.com/graduate-employers"
+                                            href="/graduate-employers"
                                             ><div
                                               class="field field-name-field-featured-block-icon field-type-image field-label-hidden"
                                             >
@@ -691,7 +691,7 @@
                                             <div class="field-items">
                                               <div class="field-item even">
                                                 <a
-                                                  href="https://gradsingapore.com/graduate-employers"
+                                                  href="/graduate-employers"
                                                   >Browse Employers</a
                                                 >
                                               </div>
@@ -1006,7 +1006,7 @@
                                   <div class="field-items">
                                     <div class="field-item even">
                                       <a
-                                        href="https://gradsingapore.com/graduate-employers"
+                                        href="/graduate-employers"
                                         >View All Employers</a
                                       >
                                     </div>
@@ -1051,7 +1051,7 @@
                                           >
                                             <h3>
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/gti-media/jobs-internships/marketing-intern-0"
+                                                href="/graduate-employers/detail"
                                                 >Marketing Intern</a
                                               >
                                             </h3>
@@ -1072,7 +1072,7 @@
                                           <div class="field-items">
                                             <div class="field-item even">
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/gti-media"
+                                                href="/graduate-employers/detail"
                                               >
                                                 <div
                                                   class="field field-name-field-ad-org-logo field-type-image field-label-hidden"
@@ -1100,7 +1100,7 @@
                                           <div class="field-items">
                                             <div class="field-item even">
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/gti-media"
+                                                href="/graduate-employers/detail"
                                                 >GTI Media</a
                                               >
                                             </div>
@@ -1205,7 +1205,7 @@
                                           >
                                             <h3>
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/ocbc-bank/jobs-internships/sgunited-traineeship-hr-relationship-manager-support-6-months"
+                                                href="/graduate-employers/detail"
                                                 >SGUnited Traineeship: HR
                                                 Relationship Manager Support (6
                                                 months)</a
@@ -1228,7 +1228,7 @@
                                           <div class="field-items">
                                             <div class="field-item even">
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/ocbc-bank"
+                                                href="/graduate-employers/detail"
                                               >
                                                 <div
                                                   class="field field-name-field-ad-org-logo field-type-image field-label-hidden"
@@ -1257,7 +1257,7 @@
                                           <div class="field-items">
                                             <div class="field-item even">
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/ocbc-bank"
+                                                href="/graduate-employers/detail"
                                                 >OCBC Bank</a
                                               >
                                             </div>
@@ -1407,7 +1407,7 @@
                                           >
                                             <h3>
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/ocbc-bank/jobs-internships/strategic-planning-officer-global-treasury"
+                                                href="/graduate-employers/detail"
                                                 >Strategic Planning Officer,
                                                 Global Treasury</a
                                               >
@@ -1429,7 +1429,7 @@
                                           <div class="field-items">
                                             <div class="field-item even">
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/ocbc-bank"
+                                                href="/graduate-employers/detail"
                                               >
                                                 <div
                                                   class="field field-name-field-ad-org-logo field-type-image field-label-hidden"
@@ -1458,7 +1458,7 @@
                                           <div class="field-items">
                                             <div class="field-item even">
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/ocbc-bank"
+                                                href="/graduate-employers/detail"
                                                 >OCBC Bank</a
                                               >
                                             </div>
@@ -1564,7 +1564,7 @@
                                           >
                                             <h3>
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/degree-census-consultancy-pte-ltd/jobs-internships/project-executive"
+                                                href="/graduate-employers/detail"
                                                 >Project Executive</a
                                               >
                                             </h3>
@@ -1585,7 +1585,7 @@
                                           <div class="field-items">
                                             <div class="field-item even">
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/degree-census-consultancy-pte-ltd"
+                                                href="/graduate-employers/detail"
                                               >
                                                 <div
                                                   class="field field-name-field-ad-org-logo field-type-image field-label-hidden"
@@ -1613,7 +1613,7 @@
                                           <div class="field-items">
                                             <div class="field-item even">
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/degree-census-consultancy-pte-ltd"
+                                                href="/graduate-employers/detail"
                                                 >Degree Census Consultancy Pte
                                                 Ltd</a
                                               >
@@ -1760,7 +1760,7 @@
                                           >
                                             <h3>
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/ocbc-bank/jobs-internships/sgunited-traineeship-digital-editor-coordinator"
+                                                href="/graduate-employers/detail"
                                                 >SGUnited Traineeship: Digital
                                                 Editor &amp; Coordinator</a
                                               >
@@ -1782,7 +1782,7 @@
                                           <div class="field-items">
                                             <div class="field-item even">
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/ocbc-bank"
+                                                href="/graduate-employers/detail"
                                               >
                                                 <div
                                                   class="field field-name-field-ad-org-logo field-type-image field-label-hidden"
@@ -1811,7 +1811,7 @@
                                           <div class="field-items">
                                             <div class="field-item even">
                                               <a
-                                                href="https://gradsingapore.com/graduate-employers/ocbc-bank"
+                                                href="/graduate-employers/detail"
                                                 >OCBC Bank</a
                                               >
                                             </div>
@@ -2036,7 +2036,7 @@
                                           >
                                             <h3>
                                               <a
-                                                href="https://gradsingapore.com/graduate-careers-advice/banking-financial-services/sector-essentials/how-to-write-a-graduate-cv-for-retail-banking-insurance"
+                                                href="/graduate-employers/detail"
                                                 >How to Write a Graduate CV for
                                                 Retail Banking, Insurance, and
                                                 Actuary Jobs</a
