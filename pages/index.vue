@@ -2702,7 +2702,8 @@
 </template>
 
 <script>
-import "../assets/style.scss";
+import "~/assets/employer.scss";
+
 export default {
   head: {
     bodyAttrs: {

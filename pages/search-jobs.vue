@@ -2381,7 +2381,7 @@
 </template>
 
 <script>
-import "../assets/search-jobs.scss";
+import "../assets/employer.scss";
 export default {
   head: {
     bodyAttrs: {
