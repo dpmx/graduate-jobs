@@ -3,9 +3,7 @@
   class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-17441 node-type-ad-organisation page-graduate-employers jquery-once-1-processed ga-not-mobile eu-cookie-compliance-processed">
 
   <div class="l-page l--col-2">
-    <div class="site-header">
-      <Header />
-    </div>
+    <Header />
     <div class="l-breadcrumbs">
       <h2 class="element-invisible">You are here</h2>
       <div class="breadcrumb">
