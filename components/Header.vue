@@ -3,10 +3,10 @@
     <header class="l-header clearfix" role="banner">
       <div class="l-branding">
         <a href="/" title="Home" rel="home" class="site-logo">
-          <!-- <img
+          <img
             src="~/assets/images/logo.png"
             alt="gradsingapore.com - Graduate Jobs, Graduate Programs &amp;amp; Internships in Singapore"
-          /> -->
+          />
         </a>
       </div>
       <div class="mobile-only">
