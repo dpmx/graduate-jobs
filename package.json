@@ -9,10 +9,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxt/components": "^1.0.7",
     "nuxt": "^2.14.0"
   },
   "devDependencies": {
-    "sass-loader": "^7.1.0",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0"
   }
 }

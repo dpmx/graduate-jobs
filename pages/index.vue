@@ -4,394 +4,20 @@
   >
     <div class="region region-page-top">
       <div class="l-page l--col-2">
-        <div class="site-header">
-          <header class="l-header clearfix" role="banner">
-            <div class="l-branding">
-              <a
-                href="https://gradsingapore.com/"
-                title="Home"
-                rel="home"
-                class="site-logo"
-                ><img
-                  src="~/assets/images/logo.png"
-                  alt="gradsingapore.com - Graduate Jobs, Graduate Programs &amp;amp; Internships in Singapore"
-              /></a>
-            </div>
-            <div class="mobile-only">
-              <a
-                href="https://gradsingapore.com/user/login"
-                class="button button--tertiary anonymous"
-                title="Log In / Sign Up"
-                >Log In / Sign Up</a
-              >
-              <a
-                href="https://gradsingapore.com/employers"
-                class="button button--primary anonymous"
-                >For Employers</a
-              >
-              <a
-                href="https://gradsingapore.com/user"
-                class="button button--secondary authenticated"
-                >Dashboard</a
-              >
-              <a
-                href="https://gradsingapore.com/user/logout"
-                class="button button--tertiary authenticated"
-                >Log Out</a
-              >
-            </div>
-            <div class="region region-navigation">
-              <div id="block-superfish-1" class="block block-superfish">
-                <h2>Main menu</h2>
-                <div class="content">
-                  <ul
-                    id="superfish-1"
-                    class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-2 sf-single-items-5 superfish-processed sf-js-enabled"
-                  >
-                    <li
-                      id="menu-164086-1"
-                      class="first odd sf-item-1 sf-depth-1 sf-no-children"
-                    >
-                      <a
-                        href="/search-jobs"
-                        class="sf-depth-1"
-                        >Search Graduate Jobs</a
-                      >
-                    </li>
-                    <li
-                      id="menu-163845-1"
-                      class="middle even sf-item-2 sf-depth-1 sf-no-children"
-                    >
-                      <a
-                        href="/graduate-employers"
-                        class="sf-depth-1"
-                        >Browse Employers</a
-                      >
-                    </li>
-                    <li
-                      id="menu-203776-1"
-                      class="middle odd sf-item-3 sf-depth-1 sf-no-children"
-                    >
-                      <a
-                        href="https://gradsingapore.com/singapores100"
-                        class="sf-depth-1"
-                        >Singapore's 100</a
-                      >
-                    </li>
-                    <li
-                      id="menu-176561-1"
-                      class="middle even sf-item-4 sf-depth-1 sf-total-children-2 sf-parent-children-2 sf-single-children-0 menuparent"
-                    >
-                      <a
-                        href="https://gradsingapore.com/graduate-careers-advice"
-                        class="sf-depth-1 menuparent sf-depth-1 menuparent"
-                        >Careers Advice</a
-                      >
-                      <ul class="sf-megamenu sf-hidden">
-                        <li
-                          class="sf-megamenu-wrapper middle even sf-item-4 sf-depth-1 sf-total-children-2 sf-parent-children-2 sf-single-children-0 menuparent"
-                        >
-                          <ol>
-                            <li
-                              id="menu-178221-1"
-                              class="first odd sf-item-1 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 sf-megamenu-column menuparent"
-                            >
-                              <div class="sf-megamenu-column">
-                                <span
-                                  class="sf-depth-2 menuparent nolink"
-                                  tabindex="0"
-                                  >Browse Advice by Career Sector</span
-                                >
-                                <ol>
-                                  <li
-                                    id="menu-178201-1"
-                                    class="first odd sf-item-1 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/accountancy-financial-management"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Accountancy &amp; Financial Management</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-178891-1"
-                                    class="middle even sf-item-2 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/banking-financial-services"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Banking &amp; Financial Services</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-180341-1"
-                                    class="middle odd sf-item-3 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/consumer-goods-fmcg"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Consumer Goods &amp; FMCG</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-178206-1"
-                                    class="middle even sf-item-4 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/engineering"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Engineering</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-194976-1"
-                                    class="middle odd sf-item-5 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/healthcare-pharmaceuticals"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Healthcare &amp; Pharmaceuticals</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-178211-1"
-                                    class="middle even sf-item-6 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/investment-banking-investment-management"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Investment Banking &amp; Investment
-                                      Management</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-178881-1"
-                                    class="last odd sf-item-7 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/it-technology"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >IT &amp; Technology</a
-                                    >
-                                  </li>
-                                </ol>
-                              </div>
-                            </li>
-                            <li
-                              id="menu-178216-1"
-                              class="last even sf-item-2 sf-depth-2 sf-total-children-8 sf-parent-children-0 sf-single-children-8 sf-megamenu-column menuparent"
-                            >
-                              <div class="sf-megamenu-column">
-                                <span
-                                  class="sf-depth-2 menuparent nolink"
-                                  tabindex="0"
-                                  >Browse General Careers Advice</span
-                                >
-                                <ol>
-                                  <li
-                                    id="menu-194961-1"
-                                    class="first odd sf-item-1 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/accepting-and-rejecting-offers"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Accepting and Rejecting Offers</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-178186-1"
-                                    class="middle even sf-item-2 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/applications-and-cvs"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Applications and CVs</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-178196-1"
-                                    class="middle odd sf-item-3 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/assessment-centres"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Assessment Centres</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-207531-1"
-                                    class="middle even sf-item-4 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/first-job"
-                                      class="sf-depth-3"
-                                      >First Job</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-182576-1"
-                                    class="middle odd sf-item-5 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/internships-and-work-experience"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Internships and Work Experience</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-178191-1"
-                                    class="middle even sf-item-6 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/interview-tips-and-techniques"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Interview Tips and Techniques</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-178181-1"
-                                    class="middle odd sf-item-7 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/planning-your-job-search"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Planning Your Job Search</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-203036-1"
-                                    class="last even sf-item-8 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/graduate-careers-advice/polytechnic-students-and-graduates"
-                                      class="sf-depth-3 sf-depth-3"
-                                      >Polytechnic Students and Graduates</a
-                                    >
-                                  </li>
-                                </ol>
-                              </div>
-                            </li>
-                          </ol>
-                        </li>
-                      </ul>
-                    </li>
-                    <li
-                      id="menu-208941-1"
-                      class="middle odd sf-item-5 sf-depth-1 sf-total-children-2 sf-parent-children-2 sf-single-children-0 menuparent"
-                    >
-                      <span class="sf-depth-1 menuparent nolink" tabindex="0"
-                        >Career Events</span
-                      >
-                      <ul class="sf-megamenu sf-hidden">
-                        <li
-                          class="sf-megamenu-wrapper middle odd sf-item-5 sf-depth-1 sf-total-children-2 sf-parent-children-2 sf-single-children-0 menuparent"
-                        >
-                          <ol>
-                            <li
-                              id="menu-208946-1"
-                              class="first odd sf-item-1 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 sf-megamenu-column menuparent"
-                            >
-                              <div class="sf-megamenu-column">
-                                <span
-                                  class="sf-depth-2 menuparent nolink"
-                                  tabindex="0"
-                                  >Virtual Events</span
-                                >
-                                <ol>
-                                  <li
-                                    id="menu-208086-1"
-                                    class="first odd sf-item-1 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/events/enginuity-2020/overview"
-                                      class="sf-depth-3"
-                                      >Enginuity 2020 - NUS Edition (9 Sept
-                                      2020)</a
-                                    >
-                                  </li>
-                                  <li
-                                    id="menu-208976-1"
-                                    class="last even sf-item-2 sf-depth-3 sf-no-children"
-                                  >
-                                    <a
-                                      href="https://gradsingapore.com/events/enginuity-2020-all-universities-edition/overview"
-                                      class="sf-depth-3"
-                                      >Enginuity 2020 - All universities Edition
-                                      (23 Sept 2020)</a
-                                    >
-                                  </li>
-                                </ol>
-                              </div>
-                            </li>
-                            <li
-                              id="menu-208951-1"
-                              class="last even sf-item-2 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 sf-megamenu-column menuparent"
-                            >
-                              <div class="sf-megamenu-column">
-                                <span
-                                  class="sf-depth-2 menuparent nolink"
-                                  tabindex="0"
-                                  >gradsingapore Webinars</span
-                                >
-                                <ol>
-                                  <li
-                                    id="menu-208956-1"
-                                    class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children"
-                                  >
-                                    <span class="sf-depth-3 nolink" tabindex="0"
-                                      >Coming Soon!</span
-                                    >
-                                  </li>
-                                </ol>
-                              </div>
-                            </li>
-                          </ol>
-                        </li>
-                      </ul>
-                    </li>
-                    <li
-                      id="menu-205991-1"
-                      class="middle even sf-item-6 sf-depth-1 sf-no-children main-menu-login"
-                    >
-                      <a
-                        href="https://gradsingapore.com/user/login"
-                        class="button button--tertiary main-menu-login sf-depth-1"
-                        >Log In / Sign Up</a
-                      >
-                    </li>
-                    <li
-                      id="menu-208016-1"
-                      class="last odd sf-item-7 sf-depth-1 sf-no-children main-menu-for-employers"
-                    >
-                      <a
-                        href="https://gradsingapore.com/employers"
-                        class="button button--primary main-menu-for-employers sf-depth-1"
-                        >For Employers</a
-                      >
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </header>
-        </div>
-        <div
-          class="site-above-content"
-          :style="{ backgroundImage: `url(${backgroundUrl})` }"
-        >
+
+        <Header />
+
+        <div class="site-above-content" :style="{ backgroundImage: `url(${backgroundUrl})` }">
           <div class="l-above-content">
             <div class="site-above-content__banner">
-              <img
-                class="front-banner-image"
-                src="~/assets/images/gtimedia-gradsingapore-bg_0.jpg"
-              />
+              <img class="front-banner-image" src="~/assets/images/gtimedia-gradsingapore-bg_0.jpg" />
             </div>
             <div class="region region-above-content">
               <div id="block-bean-homepage-banner" class="block block-bean">
                 <div class="content">
                   <div
                     about="/block/homepage-banner"
-                    typeof=""
+                    typeof
                     class="dg-default entity entity-bean bean-homepage-masterbanner view-mode-default"
                   >
                     <div class="content-main">
@@ -429,59 +55,47 @@
                     accept-charset="UTF-8"
                   >
                     <div>
-                      <div
-                        class="form-item form-type-select form-item-gradaus-job-type"
-                      >
-                        <label for="edit-gradaus-job-type"
-                          >I'm looking for
-                        </label>
+                      <div class="form-item form-type-select form-item-gradaus-job-type">
+                        <label for="edit-gradaus-job-type">I'm looking for</label>
                         <select
                           id="edit-gradaus-job-type"
                           name="gradaus_job_type"
                           class="form-select"
-                          ><option value="0"
-                            >Graduate Jobs and Internships</option
-                          ><option value="6986">Internships</option
-                          ><option value="4140">Graduate Jobs</option></select
                         >
+                          <option value="0">Graduate Jobs and Internships</option>
+                          <option value="6986">Internships</option>
+                          <option value="4140">Graduate Jobs</option>
+                        </select>
                       </div>
-                      <div
-                        class="form-item form-type-select form-item-gradaus-sectors"
-                      >
-                        <label for="edit-gradaus-sectors"
-                          >and my field of study is
-                        </label>
+                      <div class="form-item form-type-select form-item-gradaus-sectors">
+                        <label for="edit-gradaus-sectors">and my field of study is</label>
                         <select
                           id="edit-gradaus-sectors"
                           name="gradaus_sectors"
                           class="form-select"
-                          ><option value="0">All Fields of Study</option
-                          ><option value="13751"
-                            >Engineering, Maths, IT &amp; Computer
-                            Sciences</option
-                          ><option value="13766"
-                            >Finance, Accounting, Economics &amp; Business
-                            Administration</option
-                          ><option value="13771"
-                            >Health &amp; Medical Sciences</option
-                          ><option value="13776"
-                            >Humanities, Arts &amp; Social Sciences</option
-                          ><option value="13761">Law &amp; Legal Studies</option
-                          ><option value="13781"
-                            >Property &amp; Built Environment</option
-                          ><option value="13756">Sciences</option
-                          ><option value="13786"
-                            >Teaching, Education &amp; Human Welfare</option
-                          ></select
                         >
+                          <option value="0">All Fields of Study</option>
+                          <option value="13751">
+                            Engineering, Maths, IT &amp; Computer
+                            Sciences
+                          </option>
+                          <option value="13766">
+                            Finance, Accounting, Economics &amp; Business
+                            Administration
+                          </option>
+                          <option value="13771">Health &amp; Medical Sciences</option>
+                          <option value="13776">Humanities, Arts &amp; Social Sciences</option>
+                          <option value="13761">Law &amp; Legal Studies</option>
+                          <option value="13781">Property &amp; Built Environment</option>
+                          <option value="13756">Sciences</option>
+                          <option value="13786">Teaching, Education &amp; Human Welfare</option>
+                        </select>
                       </div>
                       <div
                         class="form-item form-type-select form-item-gradaus-courses"
                         style="display: none;"
                       >
-                        <label for="edit-gradaus-courses"
-                          >and my field of study is
-                        </label>
+                        <label for="edit-gradaus-courses">and my field of study is</label>
                         <select
                           id="edit-gradaus-courses"
                           name="gradaus_courses"
@@ -494,16 +108,13 @@
                         name="op"
                         value="Search"
                         class="form-submit"
-                      /><input
+                      />
+                      <input
                         type="hidden"
                         name="form_build_id"
                         value="form-2VdoaX-tkUrMxDPL9oj6uqAKOuuiIAikxJCMkQakMn8"
                       />
-                      <input
-                        type="hidden"
-                        name="form_id"
-                        value="gradaus_jobs_search_form"
-                      />
+                      <input type="hidden" name="form_id" value="gradaus_jobs_search_form" />
                     </div>
                   </form>
                 </div>
@@ -520,14 +131,12 @@
                   <div class="panel-display panel-1col clearfix">
                     <div class="panel-panel panel-col">
                       <div>
-                        <div
-                          class="panel-pane pane-block pane-bean-homepage-ad"
-                        >
+                        <div class="panel-pane pane-block pane-bean-homepage-ad">
                           <div class="pane-content">
                             <div
                               class="entity entity-bean bean-homepage-advertisement clearfix"
                               about="/block/homepage-ad"
-                              typeof=""
+                              typeof
                             >
                               <div class="content">
                                 <div
@@ -540,8 +149,8 @@
                                       <div class="field-item even">
                                         <div
                                           class="entity entity-paragraphs-item paragraphs-item-advertisement"
-                                          about=""
-                                          typeof=""
+                                          about
+                                          typeof
                                         >
                                           <div class="content">
                                             <div
@@ -558,19 +167,19 @@
                                                       class="field field-name-field-ad-image field-type-image field-label-hidden"
                                                     >
                                                       <div class="field-items">
-                                                        <div
-                                                          class="field-item even"
-                                                        >
+                                                        <div class="field-item even">
                                                           <a
                                                             href="https://gradsingapore.com/ad/click/39341/638d69efa4c2f3e5ffc5f7ada94e0e9b2d7aa20468b5800cfcf00583e85d4bbc"
                                                             target="_blank"
-                                                            ><img
+                                                          >
+                                                            <img
                                                               typeof="foaf:Image"
                                                               src="~/assets/images/leader-board.jpg"
                                                               width="4043"
                                                               height="1043"
-                                                              alt=""
-                                                          /></a>
+                                                              alt
+                                                            />
+                                                          </a>
                                                         </div>
                                                       </div>
                                                     </div>
@@ -588,10 +197,8 @@
                             </div>
                           </div>
                         </div>
-                        <div class="panel-separator"></div>
-                        <div
-                          class="panel-pane pane-block pane-bean-homepage-featured-blocks"
-                        >
+                        <!-- <div class="panel-separator"></div>
+                        <div class="panel-pane pane-block pane-bean-homepage-featured-blocks">
                           <div class="pane-content">
                             <div
                               about="/block/homepage-featured-blocks"
@@ -774,11 +381,9 @@
                               </div>
                             </div>
                           </div>
-                        </div>
-                        <div class="panel-separator"></div>
-                        <div
-                          class="panel-pane pane-block pane-bean-homepage-featured-top-100"
-                        >
+                        </div>-->
+                        <!-- <div class="panel-separator"></div>
+                        <div class="panel-pane pane-block pane-bean-homepage-featured-top-100">
                           <h2 class="pane-title">
                             Featured Employers
                           </h2>
@@ -1015,14 +620,12 @@
                               </div>
                             </div>
                           </div>
-                        </div>
+                        </div>-->
                         <div class="panel-separator"></div>
                         <div
                           class="panel-pane pane-views-panes pane-graduate-jobs-schemes-latest-jobs-and-internships pane-jobs-and-internships"
                         >
-                          <h2 class="pane-title">
-                            Latest Jobs and Internships
-                          </h2>
+                          <h2 class="pane-title">Latest Jobs and Internships</h2>
 
                           <div class="pane-content">
                             <div
@@ -1037,32 +640,20 @@
                                   >
                                     <div class="content-header">
                                       <div class="field-opportunity-type">
-                                        <span class="internships"
-                                          >Internships</span
-                                        >
+                                        <span class="internships">Internships</span>
                                       </div>
                                       <div
                                         class="field field-name-title field-type-ds field-label-hidden"
                                       >
                                         <div class="field-items">
-                                          <div
-                                            class="field-item even"
-                                            property="dc:title"
-                                          >
+                                          <div class="field-item even" property="dc:title">
                                             <h3>
-                                              <a
-                                                href="/graduate-employers/detail"
-                                                >Marketing Intern</a
-                                              >
+                                              <a href="/graduate-employers/detail">Marketing Intern</a>
                                             </h3>
                                           </div>
                                         </div>
                                       </div>
-                                      <div
-                                        class="field field-name-field-ad-vac-locations"
-                                      >
-                                        Singapore
-                                      </div>
+                                      <div class="field field-name-field-ad-vac-locations">Singapore</div>
                                     </div>
                                     <div class="content-threecol-wrap">
                                       <div class="content-main">
@@ -1071,26 +662,23 @@
                                         >
                                           <div class="field-items">
                                             <div class="field-item even">
-                                              <a
-                                                href="/graduate-employers/detail"
-                                              >
+                                              <a href="/graduate-employers/detail">
                                                 <div
                                                   class="field field-name-field-ad-org-logo field-type-image field-label-hidden"
                                                 >
                                                   <div class="field-items">
-                                                    <div
-                                                      class="field-item even"
-                                                    >
+                                                    <div class="field-item even">
                                                       <img
                                                         typeof="foaf:Image"
                                                         src="~/assets/images/gtimedia-gradmalaysia-gtimedia-logo.jpg"
                                                         width="157"
                                                         height="70"
-                                                        alt=""
+                                                        alt
                                                       />
                                                     </div>
-                                                  </div></div
-                                              ></a>
+                                                  </div>
+                                                </div>
+                                              </a>
                                             </div>
                                           </div>
                                         </div>
@@ -1099,10 +687,7 @@
                                         >
                                           <div class="field-items">
                                             <div class="field-item even">
-                                              <a
-                                                href="/graduate-employers/detail"
-                                                >GTI Media</a
-                                              >
+                                              <a href="/graduate-employers/detail">GTI Media</a>
                                             </div>
                                           </div>
                                         </div>
@@ -1112,10 +697,7 @@
                                           class="field field-name-body field-type-text-with-summary field-label-hidden"
                                         >
                                           <div class="field-items">
-                                            <div
-                                              class="field-item even"
-                                              property="content:encoded"
-                                            >
+                                            <div class="field-item even" property="content:encoded">
                                               <p>
                                                 As part of the Marketing team,
                                                 you will mainly assist in
@@ -1131,53 +713,35 @@
                                         </div>
                                       </div>
                                       <div class="content-tertiary">
-                                        <div
-                                          class="field field-name-taxonomy-vocabulary-9"
-                                        >
+                                        <div class="field field-name-taxonomy-vocabulary-9">
                                           <div class="label-above">
-                                            Relevant Field of Study<span
-                                              class="info"
-                                              ><span class="tooltip"
-                                                >Accepting applications from
+                                            Relevant Field of Study
+                                            <span class="info">
+                                              <span class="tooltip">
+                                                Accepting applications from
                                                 students with degrees in
                                                 Finance, Accounting, Economics
                                                 &amp; Business
-                                                Administration</span
-                                              ></span
-                                            >
+                                                Administration
+                                              </span>
+                                            </span>
                                           </div>
                                           <span
                                             data-bg="#00a550"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(0, 165, 80);"
-                                            >F</span
-                                          >
+                                          >F</span>
                                         </div>
-                                        <div
-                                          class="field field-name-field-minimum-level-study"
-                                        >
-                                          <div class="label-above">
-                                            Qualification Level
-                                          </div>
-                                          University Undergraduate
+                                        <div class="field field-name-field-minimum-level-study">
+                                          <div class="label-above">Qualification Level</div>University Undergraduate
                                         </div>
                                         <div class="field field-name-open-date">
-                                          <div class="label-inline">
-                                            Applications open
-                                          </div>
-                                          <span class="deadline"
-                                            >29 Jul 2020</span
-                                          >
+                                          <div class="label-inline">Applications open</div>
+                                          <span class="deadline">29 Jul 2020</span>
                                         </div>
-                                        <div
-                                          class="field field-name-closing-date"
-                                        >
-                                          <div class="label-inline">
-                                            Closing
-                                          </div>
-                                          <span class="deadline"
-                                            >31 Oct 2020</span
-                                          >
+                                        <div class="field field-name-closing-date">
+                                          <div class="label-inline">Closing</div>
+                                          <span class="deadline">31 Oct 2020</span>
                                         </div>
                                       </div>
                                     </div>
@@ -1191,34 +755,24 @@
                                   >
                                     <div class="content-header">
                                       <div class="field-opportunity-type">
-                                        <span class="graduate-jobs"
-                                          >Graduate Jobs</span
-                                        >
+                                        <span class="graduate-jobs">Graduate Jobs</span>
                                       </div>
                                       <div
                                         class="field field-name-title field-type-ds field-label-hidden"
                                       >
                                         <div class="field-items">
-                                          <div
-                                            class="field-item even"
-                                            property="dc:title"
-                                          >
+                                          <div class="field-item even" property="dc:title">
                                             <h3>
-                                              <a
-                                                href="/graduate-employers/detail"
-                                                >SGUnited Traineeship: HR
+                                              <a href="/graduate-employers/detail">
+                                                SGUnited Traineeship: HR
                                                 Relationship Manager Support (6
-                                                months)</a
-                                              >
+                                                months)
+                                              </a>
                                             </h3>
                                           </div>
                                         </div>
                                       </div>
-                                      <div
-                                        class="field field-name-field-ad-vac-locations"
-                                      >
-                                        Singapore
-                                      </div>
+                                      <div class="field field-name-field-ad-vac-locations">Singapore</div>
                                     </div>
                                     <div class="content-threecol-wrap">
                                       <div class="content-main">
@@ -1227,16 +781,12 @@
                                         >
                                           <div class="field-items">
                                             <div class="field-item even">
-                                              <a
-                                                href="/graduate-employers/detail"
-                                              >
+                                              <a href="/graduate-employers/detail">
                                                 <div
                                                   class="field field-name-field-ad-org-logo field-type-image field-label-hidden"
                                                 >
                                                   <div class="field-items">
-                                                    <div
-                                                      class="field-item even"
-                                                    >
+                                                    <div class="field-item even">
                                                       <img
                                                         typeof="foaf:Image"
                                                         src="~/assets/images/gradsingapore_Logo_OCBC_2018.png"
@@ -1246,8 +796,9 @@
                                                         title="OCBC Bank"
                                                       />
                                                     </div>
-                                                  </div></div
-                                              ></a>
+                                                  </div>
+                                                </div>
+                                              </a>
                                             </div>
                                           </div>
                                         </div>
@@ -1256,10 +807,7 @@
                                         >
                                           <div class="field-items">
                                             <div class="field-item even">
-                                              <a
-                                                href="/graduate-employers/detail"
-                                                >OCBC Bank</a
-                                              >
+                                              <a href="/graduate-employers/detail">OCBC Bank</a>
                                             </div>
                                           </div>
                                         </div>
@@ -1269,10 +817,7 @@
                                           class="field field-name-body field-type-text-with-summary field-label-hidden"
                                         >
                                           <div class="field-items">
-                                            <div
-                                              class="field-item even"
-                                              property="content:encoded"
-                                            >
+                                            <div class="field-item even" property="content:encoded">
                                               <p>
                                                 To support the team of Human
                                                 Resources Relationship Managers,
@@ -1290,14 +835,12 @@
                                         </div>
                                       </div>
                                       <div class="content-tertiary">
-                                        <div
-                                          class="field field-name-taxonomy-vocabulary-9"
-                                        >
+                                        <div class="field field-name-taxonomy-vocabulary-9">
                                           <div class="label-above">
-                                            Relevant Field of Study<span
-                                              class="info"
-                                              ><span class="tooltip"
-                                                >Accepting applications from
+                                            Relevant Field of Study
+                                            <span class="info">
+                                              <span class="tooltip">
+                                                Accepting applications from
                                                 students with degrees in
                                                 Engineering, Maths, IT &amp;
                                                 Computer Sciences, Finance,
@@ -1309,77 +852,61 @@
                                                 Studies, Property &amp; Built
                                                 Environment, Sciences, Teaching,
                                                 Education &amp; Human
-                                                Welfare</span
-                                              ></span
-                                            >
+                                                Welfare
+                                              </span>
+                                            </span>
                                           </div>
                                           <span
                                             data-bg="#740C44"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(116, 12, 68);"
-                                            >E</span
-                                          ><span
+                                          >E</span>
+                                          <span
                                             data-bg="#00a550"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(0, 165, 80);"
-                                            >F</span
-                                          ><span
+                                          >F</span>
+                                          <span
                                             data-bg="#d12229"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(209, 34, 41);"
-                                            >M</span
-                                          ><span
+                                          >M</span>
+                                          <span
                                             data-bg="#ec008b"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(236, 0, 139);"
-                                            >H</span
-                                          ><span
+                                          >H</span>
+                                          <span
                                             data-bg="#00c0f2"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(0, 192, 242);"
-                                            >L</span
-                                          ><span
+                                          >L</span>
+                                          <span
                                             data-bg="#95979b"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(149, 151, 155);"
-                                            >P</span
-                                          ><span
+                                          >P</span>
+                                          <span
                                             data-bg="#1D4AC5"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(29, 74, 197);"
-                                            >S</span
-                                          ><span
+                                          >S</span>
+                                          <span
                                             data-bg="#f05a22"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(240, 90, 34);"
-                                            >T</span
-                                          >
+                                          >T</span>
                                         </div>
-                                        <div
-                                          class="field field-name-field-minimum-level-study"
-                                        >
-                                          <div class="label-above">
-                                            Qualification Level
-                                          </div>
-                                          Bachelor degree
+                                        <div class="field field-name-field-minimum-level-study">
+                                          <div class="label-above">Qualification Level</div>Bachelor degree
                                         </div>
                                         <div class="field field-name-open-date">
-                                          <div class="label-inline">
-                                            Applications open
-                                          </div>
-                                          <span class="deadline"
-                                            >17 Jul 2020</span
-                                          >
+                                          <div class="label-inline">Applications open</div>
+                                          <span class="deadline">17 Jul 2020</span>
                                         </div>
-                                        <div
-                                          class="field field-name-closing-date"
-                                        >
-                                          <div class="label-inline">
-                                            Closing
-                                          </div>
-                                          <span class="deadline"
-                                            >17 Aug 2020</span
-                                          >
+                                        <div class="field field-name-closing-date">
+                                          <div class="label-inline">Closing</div>
+                                          <span class="deadline">17 Aug 2020</span>
                                         </div>
                                       </div>
                                     </div>
@@ -1393,33 +920,23 @@
                                   >
                                     <div class="content-header">
                                       <div class="field-opportunity-type">
-                                        <span class="graduate-jobs"
-                                          >Graduate Jobs</span
-                                        >
+                                        <span class="graduate-jobs">Graduate Jobs</span>
                                       </div>
                                       <div
                                         class="field field-name-title field-type-ds field-label-hidden"
                                       >
                                         <div class="field-items">
-                                          <div
-                                            class="field-item even"
-                                            property="dc:title"
-                                          >
+                                          <div class="field-item even" property="dc:title">
                                             <h3>
-                                              <a
-                                                href="/graduate-employers/detail"
-                                                >Strategic Planning Officer,
-                                                Global Treasury</a
-                                              >
+                                              <a href="/graduate-employers/detail">
+                                                Strategic Planning Officer,
+                                                Global Treasury
+                                              </a>
                                             </h3>
                                           </div>
                                         </div>
                                       </div>
-                                      <div
-                                        class="field field-name-field-ad-vac-locations"
-                                      >
-                                        Singapore
-                                      </div>
+                                      <div class="field field-name-field-ad-vac-locations">Singapore</div>
                                     </div>
                                     <div class="content-threecol-wrap">
                                       <div class="content-main">
@@ -1428,16 +945,12 @@
                                         >
                                           <div class="field-items">
                                             <div class="field-item even">
-                                              <a
-                                                href="/graduate-employers/detail"
-                                              >
+                                              <a href="/graduate-employers/detail">
                                                 <div
                                                   class="field field-name-field-ad-org-logo field-type-image field-label-hidden"
                                                 >
                                                   <div class="field-items">
-                                                    <div
-                                                      class="field-item even"
-                                                    >
+                                                    <div class="field-item even">
                                                       <img
                                                         typeof="foaf:Image"
                                                         src="~/assets/images/gradsingapore_Logo_OCBC_2018.png"
@@ -1447,8 +960,9 @@
                                                         title="OCBC Bank"
                                                       />
                                                     </div>
-                                                  </div></div
-                                              ></a>
+                                                  </div>
+                                                </div>
+                                              </a>
                                             </div>
                                           </div>
                                         </div>
@@ -1457,10 +971,7 @@
                                         >
                                           <div class="field-items">
                                             <div class="field-item even">
-                                              <a
-                                                href="/graduate-employers/detail"
-                                                >OCBC Bank</a
-                                              >
+                                              <a href="/graduate-employers/detail">OCBC Bank</a>
                                             </div>
                                           </div>
                                         </div>
@@ -1470,10 +981,7 @@
                                           class="field field-name-body field-type-text-with-summary field-label-hidden"
                                         >
                                           <div class="field-items">
-                                            <div
-                                              class="field-item even"
-                                              property="content:encoded"
-                                            >
+                                            <div class="field-item even" property="content:encoded">
                                               <p>
                                                 You will assist the Head,
                                                 Strategic Planning &amp; MIS in
@@ -1484,59 +992,41 @@
                                         </div>
                                       </div>
                                       <div class="content-tertiary">
-                                        <div
-                                          class="field field-name-taxonomy-vocabulary-9"
-                                        >
+                                        <div class="field field-name-taxonomy-vocabulary-9">
                                           <div class="label-above">
-                                            Relevant Field of Study<span
-                                              class="info"
-                                              ><span class="tooltip"
-                                                >Accepting applications from
+                                            Relevant Field of Study
+                                            <span class="info">
+                                              <span class="tooltip">
+                                                Accepting applications from
                                                 students with degrees in
                                                 Engineering, Maths, IT &amp;
                                                 Computer Sciences, Finance,
                                                 Accounting, Economics &amp;
-                                                Business Administration</span
-                                              ></span
-                                            >
+                                                Business Administration
+                                              </span>
+                                            </span>
                                           </div>
                                           <span
                                             data-bg="#740C44"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(116, 12, 68);"
-                                            >E</span
-                                          ><span
+                                          >E</span>
+                                          <span
                                             data-bg="#00a550"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(0, 165, 80);"
-                                            >F</span
-                                          >
+                                          >F</span>
                                         </div>
-                                        <div
-                                          class="field field-name-field-minimum-level-study"
-                                        >
-                                          <div class="label-above">
-                                            Qualification Level
-                                          </div>
-                                          Bachelor degree
+                                        <div class="field field-name-field-minimum-level-study">
+                                          <div class="label-above">Qualification Level</div>Bachelor degree
                                         </div>
                                         <div class="field field-name-open-date">
-                                          <div class="label-inline">
-                                            Applications open
-                                          </div>
-                                          <span class="deadline"
-                                            >17 Jul 2020</span
-                                          >
+                                          <div class="label-inline">Applications open</div>
+                                          <span class="deadline">17 Jul 2020</span>
                                         </div>
-                                        <div
-                                          class="field field-name-closing-date"
-                                        >
-                                          <div class="label-inline">
-                                            Closing
-                                          </div>
-                                          <span class="deadline"
-                                            >31 Dec 2020</span
-                                          >
+                                        <div class="field field-name-closing-date">
+                                          <div class="label-inline">Closing</div>
+                                          <span class="deadline">31 Dec 2020</span>
                                         </div>
                                       </div>
                                     </div>
@@ -1550,32 +1040,20 @@
                                   >
                                     <div class="content-header">
                                       <div class="field-opportunity-type">
-                                        <span class="graduate-jobs"
-                                          >Graduate Jobs</span
-                                        >
+                                        <span class="graduate-jobs">Graduate Jobs</span>
                                       </div>
                                       <div
                                         class="field field-name-title field-type-ds field-label-hidden"
                                       >
                                         <div class="field-items">
-                                          <div
-                                            class="field-item even"
-                                            property="dc:title"
-                                          >
+                                          <div class="field-item even" property="dc:title">
                                             <h3>
-                                              <a
-                                                href="/graduate-employers/detail"
-                                                >Project Executive</a
-                                              >
+                                              <a href="/graduate-employers/detail">Project Executive</a>
                                             </h3>
                                           </div>
                                         </div>
                                       </div>
-                                      <div
-                                        class="field field-name-field-ad-vac-locations"
-                                      >
-                                        Singapore
-                                      </div>
+                                      <div class="field field-name-field-ad-vac-locations">Singapore</div>
                                     </div>
                                     <div class="content-threecol-wrap">
                                       <div class="content-main">
@@ -1584,26 +1062,23 @@
                                         >
                                           <div class="field-items">
                                             <div class="field-item even">
-                                              <a
-                                                href="/graduate-employers/detail"
-                                              >
+                                              <a href="/graduate-employers/detail">
                                                 <div
                                                   class="field field-name-field-ad-org-logo field-type-image field-label-hidden"
                                                 >
                                                   <div class="field-items">
-                                                    <div
-                                                      class="field-item even"
-                                                    >
+                                                    <div class="field-item even">
                                                       <img
                                                         typeof="foaf:Image"
                                                         src="~/assets/images/logo4.png"
                                                         width="158"
                                                         height="70"
-                                                        alt=""
+                                                        alt
                                                       />
                                                     </div>
-                                                  </div></div
-                                              ></a>
+                                                  </div>
+                                                </div>
+                                              </a>
                                             </div>
                                           </div>
                                         </div>
@@ -1612,11 +1087,10 @@
                                         >
                                           <div class="field-items">
                                             <div class="field-item even">
-                                              <a
-                                                href="/graduate-employers/detail"
-                                                >Degree Census Consultancy Pte
-                                                Ltd</a
-                                              >
+                                              <a href="/graduate-employers/detail">
+                                                Degree Census Consultancy Pte
+                                                Ltd
+                                              </a>
                                             </div>
                                           </div>
                                         </div>
@@ -1626,10 +1100,7 @@
                                           class="field field-name-body field-type-text-with-summary field-label-hidden"
                                         >
                                           <div class="field-items">
-                                            <div
-                                              class="field-item even"
-                                              property="content:encoded"
-                                            >
+                                            <div class="field-item even" property="content:encoded">
                                               <p>
                                                 The Project Executive will be
                                                 assisting the Senior Project
@@ -1643,14 +1114,12 @@
                                         </div>
                                       </div>
                                       <div class="content-tertiary">
-                                        <div
-                                          class="field field-name-taxonomy-vocabulary-9"
-                                        >
+                                        <div class="field field-name-taxonomy-vocabulary-9">
                                           <div class="label-above">
-                                            Relevant Field of Study<span
-                                              class="info"
-                                              ><span class="tooltip"
-                                                >Accepting applications from
+                                            Relevant Field of Study
+                                            <span class="info">
+                                              <span class="tooltip">
+                                                Accepting applications from
                                                 students with degrees in
                                                 Engineering, Maths, IT &amp;
                                                 Computer Sciences, Finance,
@@ -1662,77 +1131,61 @@
                                                 Studies, Property &amp; Built
                                                 Environment, Sciences, Teaching,
                                                 Education &amp; Human
-                                                Welfare</span
-                                              ></span
-                                            >
+                                                Welfare
+                                              </span>
+                                            </span>
                                           </div>
                                           <span
                                             data-bg="#740C44"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(116, 12, 68);"
-                                            >E</span
-                                          ><span
+                                          >E</span>
+                                          <span
                                             data-bg="#00a550"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(0, 165, 80);"
-                                            >F</span
-                                          ><span
+                                          >F</span>
+                                          <span
                                             data-bg="#d12229"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(209, 34, 41);"
-                                            >M</span
-                                          ><span
+                                          >M</span>
+                                          <span
                                             data-bg="#ec008b"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(236, 0, 139);"
-                                            >H</span
-                                          ><span
+                                          >H</span>
+                                          <span
                                             data-bg="#00c0f2"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(0, 192, 242);"
-                                            >L</span
-                                          ><span
+                                          >L</span>
+                                          <span
                                             data-bg="#95979b"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(149, 151, 155);"
-                                            >P</span
-                                          ><span
+                                          >P</span>
+                                          <span
                                             data-bg="#1D4AC5"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(29, 74, 197);"
-                                            >S</span
-                                          ><span
+                                          >S</span>
+                                          <span
                                             data-bg="#f05a22"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(240, 90, 34);"
-                                            >T</span
-                                          >
+                                          >T</span>
                                         </div>
-                                        <div
-                                          class="field field-name-field-minimum-level-study"
-                                        >
-                                          <div class="label-above">
-                                            Qualification Level
-                                          </div>
-                                          Diploma
+                                        <div class="field field-name-field-minimum-level-study">
+                                          <div class="label-above">Qualification Level</div>Diploma
                                         </div>
                                         <div class="field field-name-open-date">
-                                          <div class="label-inline">
-                                            Applications open
-                                          </div>
-                                          <span class="deadline"
-                                            >17 Jul 2020</span
-                                          >
+                                          <div class="label-inline">Applications open</div>
+                                          <span class="deadline">17 Jul 2020</span>
                                         </div>
-                                        <div
-                                          class="field field-name-closing-date"
-                                        >
-                                          <div class="label-inline">
-                                            Closing
-                                          </div>
-                                          <span class="deadline"
-                                            >17 Aug 2020</span
-                                          >
+                                        <div class="field field-name-closing-date">
+                                          <div class="label-inline">Closing</div>
+                                          <span class="deadline">17 Aug 2020</span>
                                         </div>
                                       </div>
                                     </div>
@@ -1746,33 +1199,23 @@
                                   >
                                     <div class="content-header">
                                       <div class="field-opportunity-type">
-                                        <span class="graduate-jobs"
-                                          >Graduate Jobs</span
-                                        >
+                                        <span class="graduate-jobs">Graduate Jobs</span>
                                       </div>
                                       <div
                                         class="field field-name-title field-type-ds field-label-hidden"
                                       >
                                         <div class="field-items">
-                                          <div
-                                            class="field-item even"
-                                            property="dc:title"
-                                          >
+                                          <div class="field-item even" property="dc:title">
                                             <h3>
-                                              <a
-                                                href="/graduate-employers/detail"
-                                                >SGUnited Traineeship: Digital
-                                                Editor &amp; Coordinator</a
-                                              >
+                                              <a href="/graduate-employers/detail">
+                                                SGUnited Traineeship: Digital
+                                                Editor &amp; Coordinator
+                                              </a>
                                             </h3>
                                           </div>
                                         </div>
                                       </div>
-                                      <div
-                                        class="field field-name-field-ad-vac-locations"
-                                      >
-                                        Singapore
-                                      </div>
+                                      <div class="field field-name-field-ad-vac-locations">Singapore</div>
                                     </div>
                                     <div class="content-threecol-wrap">
                                       <div class="content-main">
@@ -1781,16 +1224,12 @@
                                         >
                                           <div class="field-items">
                                             <div class="field-item even">
-                                              <a
-                                                href="/graduate-employers/detail"
-                                              >
+                                              <a href="/graduate-employers/detail">
                                                 <div
                                                   class="field field-name-field-ad-org-logo field-type-image field-label-hidden"
                                                 >
                                                   <div class="field-items">
-                                                    <div
-                                                      class="field-item even"
-                                                    >
+                                                    <div class="field-item even">
                                                       <img
                                                         typeof="foaf:Image"
                                                         src="~/assets/images/gradsingapore_Logo_OCBC_2018.png"
@@ -1800,8 +1239,9 @@
                                                         title="OCBC Bank"
                                                       />
                                                     </div>
-                                                  </div></div
-                                              ></a>
+                                                  </div>
+                                                </div>
+                                              </a>
                                             </div>
                                           </div>
                                         </div>
@@ -1810,10 +1250,7 @@
                                         >
                                           <div class="field-items">
                                             <div class="field-item even">
-                                              <a
-                                                href="/graduate-employers/detail"
-                                                >OCBC Bank</a
-                                              >
+                                              <a href="/graduate-employers/detail">OCBC Bank</a>
                                             </div>
                                           </div>
                                         </div>
@@ -1823,10 +1260,7 @@
                                           class="field field-name-body field-type-text-with-summary field-label-hidden"
                                         >
                                           <div class="field-items">
-                                            <div
-                                              class="field-item even"
-                                              property="content:encoded"
-                                            >
+                                            <div class="field-item even" property="content:encoded">
                                               <p>
                                                 You will be responsible for
                                                 helping to review and creatively
@@ -1847,59 +1281,41 @@
                                         </div>
                                       </div>
                                       <div class="content-tertiary">
-                                        <div
-                                          class="field field-name-taxonomy-vocabulary-9"
-                                        >
+                                        <div class="field field-name-taxonomy-vocabulary-9">
                                           <div class="label-above">
-                                            Relevant Field of Study<span
-                                              class="info"
-                                              ><span class="tooltip"
-                                                >Accepting applications from
+                                            Relevant Field of Study
+                                            <span class="info">
+                                              <span class="tooltip">
+                                                Accepting applications from
                                                 students with degrees in
                                                 Finance, Accounting, Economics
                                                 &amp; Business Administration,
                                                 Humanities, Arts &amp; Social
-                                                Sciences</span
-                                              ></span
-                                            >
+                                                Sciences
+                                              </span>
+                                            </span>
                                           </div>
                                           <span
                                             data-bg="#00a550"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(0, 165, 80);"
-                                            >F</span
-                                          ><span
+                                          >F</span>
+                                          <span
                                             data-bg="#ec008b"
                                             class="degree areasOfStudy-processed"
                                             style="background: rgb(236, 0, 139);"
-                                            >H</span
-                                          >
+                                          >H</span>
                                         </div>
-                                        <div
-                                          class="field field-name-field-minimum-level-study"
-                                        >
-                                          <div class="label-above">
-                                            Qualification Level
-                                          </div>
-                                          Diploma
+                                        <div class="field field-name-field-minimum-level-study">
+                                          <div class="label-above">Qualification Level</div>Diploma
                                         </div>
                                         <div class="field field-name-open-date">
-                                          <div class="label-inline">
-                                            Applications open
-                                          </div>
-                                          <span class="deadline"
-                                            >25 Jun 2020</span
-                                          >
+                                          <div class="label-inline">Applications open</div>
+                                          <span class="deadline">25 Jun 2020</span>
                                         </div>
-                                        <div
-                                          class="field field-name-closing-date"
-                                        >
-                                          <div class="label-inline">
-                                            Closing
-                                          </div>
-                                          <span class="deadline"
-                                            >31 Dec 2020</span
-                                          >
+                                        <div class="field field-name-closing-date">
+                                          <div class="label-inline">Closing</div>
+                                          <span class="deadline">31 Dec 2020</span>
                                         </div>
                                       </div>
                                     </div>
@@ -1912,18 +1328,15 @@
                                   <a
                                     href="https://gradsingapore.com/search-jobs"
                                     class="button button--primary"
-                                    >View more Jobs &amp; Internships</a
-                                  >
+                                  >View more Jobs &amp; Internships</a>
                                 </p>
                               </div>
                             </div>
                           </div>
                         </div>
+                        <!-- <div class="panel-separator"></div>
                         <div class="panel-separator"></div>
-                        <div class="panel-separator"></div>
-                        <div
-                          class="panel-pane pane-views-panes pane-graduate-careers-advice-featured-advice-homepage"
-                        >
+                        <div class="panel-pane pane-views-panes pane-graduate-careers-advice-featured-advice-homepage">
                           <h2 class="pane-title">
                             Latest career advice
                           </h2>
@@ -2471,9 +1884,7 @@
                           </div>
                         </div>
                         <div class="panel-separator"></div>
-                        <div
-                          class="panel-pane pane-block pane-bean-homepage-signup-cta"
-                        >
+                        <div class="panel-pane pane-block pane-bean-homepage-signup-cta">
                           <div class="pane-content">
                             <div
                               about="/block/homepage-signup-cta"
@@ -2665,10 +2076,7 @@
                           </div>
                         </div>
                         <div class="panel-separator"></div>
-                        <div
-                          class="panel-pane pane-block pane-bean-homepage-e-book-form"
-                          id="register"
-                        >
+                        <div class="panel-pane pane-block pane-bean-homepage-e-book-form" id="register">
                           <div class="pane-content">
                             <div
                               about="/block/homepage-e-book-form"
@@ -2720,7 +2128,7 @@
                               </div>
                             </div>
                           </div>
-                        </div>
+                        </div>-->
                       </div>
                     </div>
                   </div>
@@ -2730,7 +2138,7 @@
           </div>
         </div>
 
-        <div class="site-above-pre-footer">
+        <!-- <div class="site-above-pre-footer">
           <div class="l-above-pre-footer">
             <div class="region region-above-pre-footer">
               <div
@@ -3287,7 +2695,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div>-->
       </div>
     </div>
   </div>
@@ -3298,13 +2706,14 @@ import "../assets/style.scss";
 export default {
   head: {
     bodyAttrs: {
-      class: 'html front not-logged-in no-sidebars page-frontpage jquery-once-1-processed ga-not-mobile eu-cookie-compliance-processed'
-    }
+      class:
+        "html front not-logged-in no-sidebars page-frontpage jquery-once-1-processed ga-not-mobile eu-cookie-compliance-processed",
+    },
   },
   computed: {
     backgroundUrl() {
-      return require('~/assets/images/gtimedia-gradsingapore-bg_0.jpg')
-    }
+      return require("~/assets/images/gtimedia-gradsingapore-bg_0.jpg");
+    },
   }
 };
 </script>
