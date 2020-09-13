@@ -243,7 +243,11 @@
                               class="view view-graduate-jobs-schemes view-id-graduate_jobs_schemes view-display-id-latest_jobs_and_internships view-dom-id-0b9b25effd7c4864e9f2654d0bb8891f"
                             >
                               <div class="view-content clearfix">
-                                <div class="views-row views-row-1 clearfix">
+                                <div
+                                  class="views-row views-row-1 clearfix"
+                                  v-for="job in jobs"
+                                  :key="job.id"
+                                >
                                   <div
                                     about="/graduate-employers/gti-media/jobs-internships/marketing-intern-0"
                                     typeof="sioc:Item foaf:Document"
@@ -402,7 +406,7 @@
                               <div class="view-footer">
                                 <p>
                                   <a
-                                    href="https://gradsingapore.com/search-jobs"
+                                    href="/search-jobs"
                                     class="button button--primary"
                                     >View more Jobs &amp; Internships</a
                                   >
@@ -426,8 +430,11 @@
 
 <script>
 import "~/assets/employer.scss";
+import axios from "axios";
+import { mapActions, mapState, mapMutations } from "vuex";
 
 export default {
+  name: "HomePage",
   head: {
     bodyAttrs: {
       class:
@@ -437,7 +444,35 @@ export default {
   computed: {
     backgroundUrl() {
       return require("~/assets/images/gtimedia-gradsingapore-bg_0.jpg");
+    },
+    ...mapState("jobs", {
+      jobsFromState: state => state.jobs
+    })
+  },
+  async asyncData() {
+    const res = await axios.get(`https://api.thetraineeclub.com/job.json`);
+    if (res && res.status === 200 && res.data.jobs) {
+      return { jobs: res.data.jobs };
     }
+    return [];
+  },
+  mounted() {
+    if (!this.jobs.length) {
+      this.fetchJobs();
+    } else {
+      this.setJobsToState(this.jobs);
+    }
+  },
+  data() {
+    return {
+      jobs: []
+    };
+  },
+  methods: {
+    ...mapActions("jobs", ["fetchJobs"]),
+    ...mapMutations("jobs", {
+      setJobsToState: "setJobs"
+    })
   }
 };
 </script>
